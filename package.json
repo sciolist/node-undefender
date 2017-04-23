@@ -1,0 +1,8 @@
+{
+  "name": "undefender",
+  "version": "0.0.2",
+  "bin": "./undefender.cmd",
+  "description": "excludes a folder from windows defender",
+  "author": "Daniel Pihlstrom <sciolist.se@gmail.com>",
+  "license": "ISC"
+}
