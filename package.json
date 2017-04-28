@@ -1,8 +1,12 @@
 {
   "name": "undefender",
   "version": "0.0.2",
-  "bin": "./undefender.cmd",
+  "bin": "./cli/index.js",
   "description": "excludes a folder from windows defender",
   "author": "Daniel Pihlstrom <sciolist.se@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "read": "^1.0.7"
+  }
 }
