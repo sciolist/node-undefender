@@ -1,6 +1,6 @@
 {
   "name": "undefender",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "bin": "./cli/index.js",
   "description": "excludes a folder from windows defender",
   "author": "Daniel Pihlstrom <sciolist.se@gmail.com>",
